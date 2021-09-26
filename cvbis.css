@@ -1,0 +1,33 @@
+body
+{
+	text-align: center; font-size:  x-large;
+}
+
+body
+{
+background: url("hiddentotoro.JPG") fixed no-repeat;	
+}
+
+@font-face {
+    font-family: 'alpha_echoregular';
+    src: url('font/alpha_echo-webfont.eot');
+    src: url('font/alpha_echo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/alpha_echo-webfont.woff2') format('woff2'),
+         url('font/alpha_echo-webfont.woff') format('woff'),
+         url('font/alpha_echo-webfont.ttf') format('truetype'),
+         url('font/alpha_echo-webfont.svg#alpha_echoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    }
+
+h1
+{
+	color: #98041b; border: 2px black outset; font-family: 'alpha_echoregular';
+}
+
+h2
+{
+	color: #032904; font-family: 'alpha_echoregular';
+	text-shadow: 2px 2px 4px forestgreen;
+}
+
